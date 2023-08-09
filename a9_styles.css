@@ -1,0 +1,35 @@
+body{
+	background: lightblue url("https://teamcolorcodes.com/wp-content/uploads/2014/05/Toronto-Blue-Jays-Logo-PNG.png") fixed; 
+	background-position: center;
+	background-repeat: no-repeat;
+	}
+
+h1{ 
+	color: darkblue; 
+	text-align:center; 
+	text-decoration: underline;
+	border:5px solid #000000; 
+	padding:3px; margin:5px; 
+	border-style: outset;
+	}
+
+li{border-bottom: solid darkblue;}
+
+h2{
+	text-decoration: underline;
+	}
+
+
+/* Defined Classes */
+.centerImage{
+	text-align:center; 
+	display:block;
+	}
+	
+.image{
+	width: 25%; 
+	height: 25%; 
+	border:5px solid #000000; 
+	padding:5px; margin:5px; 
+	border-style: outset;
+	}
